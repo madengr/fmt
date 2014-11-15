@@ -15,6 +15,7 @@ Tested with:
 - ARRL FMT (http://www.arrl.org/frequency-measuring-test)
 
 I measured sub-Hz accuracy in the November, 2014 test, although I feel I could have done better on the 80m and 160m signals since they had stronger SNR.  The 40m signal was a mess.
+
 http://www.b4h.net/fmt/fmtresults201411.php
 ![Nov 14 result](https://github.com/madengr/fmt/blob/master/fmt_Nov14_kd4hso.png)
 
